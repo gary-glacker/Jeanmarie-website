@@ -1,0 +1,22 @@
+{
+  "name": "Jean Marie Gatare — Software Developer & Founder",
+  "short_name": "Jean Marie",
+  "description": "Portfolio of Jean Marie Gatare, a software developer and founder in Kigali, Rwanda.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0a0d",
+  "theme_color": "#0c0a0d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/android-chrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
